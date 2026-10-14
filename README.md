@@ -1,3 +1,32 @@
+# Haifeng Huang · 黄海烽
+
+**Ph.D. Student in Computer Science · Iowa State University**
+
+[Homepage](https://zzzzchs.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=oUm2gZUAAAAJ) · [Email](mailto:huanghaifeng317@gmail.com)
+
+I study **efficient multimodal models**, with interests in video understanding, 3D scene perception, and embodied AI. I am advised by [Prof. Yang Li](https://jerryyangli.github.io/) at Iowa State University. Previously, I received my M.S. and B.Eng. in Computer Science from Zhejiang University, where I worked with [Prof. Zhou Zhao](https://scholar.google.com/citations?user=IIoFY90AAAAJ&hl=en).
+
+## Selected research
+
+- **KiToke: Kernel-based Interval-aware Token Compression for Video Large Language Models**  
+  *arXiv preprint, 2026* · [Paper](https://arxiv.org/abs/2604.03414)
+
+- **Chat-Scene++: Exploiting Context-Rich Object Identification for 3D LLM**  
+  *IEEE TPAMI, 2026* · [Paper](https://arxiv.org/abs/2603.27507) · [Code](https://github.com/ZzZZCHS/Chat-Scene)
+
+- **RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**  
+  *CVPR, 2025* · [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html) · [Project](https://robo-ground.github.io/) · [Code](https://github.com/ZzZZCHS/RoboGround)
+
+- **Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers**  
+  *NeurIPS, 2024* · [Paper](https://arxiv.org/abs/2312.08168) · [Code](https://github.com/ZzZZCHS/Chat-Scene)
+
+[Full publication list](https://zzzzchs.github.io/#publications)
+
+## Code and projects
+
+<details>
+<summary>Explore six repositories</summary>
+
 <a href="https://github.com/ZzZZCHS/Chat-Scene">
   <picture>
     <source
@@ -52,3 +81,5 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Skyminers&repo=SplatDemo&theme=light_github_repocard" alt="SplatDemo repository card" />
   </picture>
 </a>
+
+</details>

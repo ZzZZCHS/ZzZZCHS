@@ -1,8 +1,11 @@
+# Haifeng Huang
+
 <p align="center">
   <a href="https://zzzzchs.github.io/"><img src="https://img.shields.io/badge/Homepage-466580?style=flat&logo=googlechrome&logoColor=white" alt="Homepage"></a>
   <a href="https://scholar.google.com/citations?user=oUm2gZUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/haifeng-huang-784b2b249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:huanghaifeng317@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/ZzZZCHS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 I am a Ph.D. student in Computer Science at **Iowa State University**, advised by [Prof. Yang Li](https://jerryyangli.github.io/). I received my M.S. and B.Eng. in Computer Science from **Zhejiang University**, where I worked with [Prof. Zhou Zhao](https://scholar.google.com/citations?user=IIoFY90AAAAJ&hl=en).
@@ -14,7 +17,7 @@ My research centers on **efficient multimodal models**, with broader interests i
 ### 2026
 
 - **[Chat-Scene++: Exploiting Context-Rich Object Identification for 3D LLM](https://arxiv.org/abs/2603.27507)**  
-  *IEEE TPAMI 2026* · [Code](https://github.com/ZzZZCHS/Chat-Scene) · [![GitHub stars](https://img.shields.io/github/stars/ZzZZCHS/Chat-Scene?style=social)](https://github.com/ZzZZCHS/Chat-Scene) · [![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZzZZCHS%2FZzZZCHS.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%22oUm2gZUAAAAJ%3AbEWYMUwI8FkC%22%5D.num_citations&label=citations&style=flat&color=466580)](https://scholar.google.com/citations?view_op=view_citation&user=oUm2gZUAAAAJ&citation_for_view=oUm2gZUAAAAJ%3AbEWYMUwI8FkC)
+  *IEEE TPAMI 2026* · [Code](https://github.com/ZzZZCHS/Chat-Scene) · [![GitHub stars](https://img.shields.io/github/stars/ZzZZCHS/Chat-Scene?style=social)](https://github.com/ZzZZCHS/Chat-Scene) · [![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZzZZCHS%2FZzZZCHS.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%22oUm2gZUAAAAJ%3AmaZDTaKrznsC%22%5D.num_citations&label=citations&style=flat&color=466580)](https://scholar.google.com/citations?view_op=view_citation&user=oUm2gZUAAAAJ&citation_for_view=oUm2gZUAAAAJ%3AmaZDTaKrznsC)
 
 ### 2025
 
@@ -62,4 +65,9 @@ My research centers on **efficient multimodal models**, with broader interests i
 
 - **[Towards Effective Multi-modal Interchanges in Zero-resource Sounding Object Localization](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f8de10c9ff056ae3d1eef43ad1762351-Abstract-Conference.html)**  
   *NeurIPS 2022* · [Code](https://github.com/AwalkZY/TURN) · [![GitHub stars](https://img.shields.io/github/stars/AwalkZY/TURN?style=social)](https://github.com/AwalkZY/TURN) · [![Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZzZZCHS%2FZzZZCHS.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications%5B%22oUm2gZUAAAAJ%3Au5HHmVD_uO8C%22%5D.num_citations&label=citations&style=flat&color=466580)](https://scholar.google.com/citations?view_op=view_citation&user=oUm2gZUAAAAJ&citation_for_view=oUm2gZUAAAAJ%3Au5HHmVD_uO8C)
+
+[Full publication list](https://zzzzchs.github.io/#publications) · Citation counts from Google Scholar via my homepage's [citation data](https://raw.githubusercontent.com/ZzZZCHS/ZzZZCHS.github.io/google-scholar-stats/gs_data.json).
+
+![Citation snapshot](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FZzZZCHS%2FZzZZCHS.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.updated&label=citation%20snapshot&style=flat&color=466580)
+
 

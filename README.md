@@ -16,13 +16,13 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Chat-3D&repo=Chat-3D&theme=light_github_repocard" alt="Chat-3D repository card" />
   </picture>
 </a>
-<a href="https://github.com/OpenRobotLab/Grounded_3D-LLM">
+<a href="https://github.com/InternRobotics/Grounded_3D-LLM">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/pin/?username=OpenRobotLab&repo=Grounded_3D-LLM&theme=dark_github_repocard"
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=InternRobotics&repo=Grounded_3D-LLM&theme=dark_github_repocard"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=OpenRobotLab&repo=Grounded_3D-LLM&theme=light_github_repocard" alt="Grounded_3D-LLM repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=InternRobotics&repo=Grounded_3D-LLM&theme=light_github_repocard" alt="Grounded_3D-LLM repository card" />
   </picture>
 </a>
 <a href="https://github.com/ZzZZCHS/RoboGround">
